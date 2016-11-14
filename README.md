@@ -136,7 +136,7 @@ To run, clone this repo, and open the `Example/Compose_Example.xcodeproj`. **You
 
 ## Installation
 
-#### Cocoapods
+#### CocoaPods
 Compose is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your `Podfile`:
 
